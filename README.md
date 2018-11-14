@@ -1,2 +1,2 @@
 # mindMapping
-Save all mind Mapping when I study do it
+Store all mind mapping of learning time
